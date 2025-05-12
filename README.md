@@ -1,8 +1,13 @@
 # OK1012A_LS1012A_EC20
 LS1012A / OK1012A EC20  GSM modem
 
+## build quectel-CM
+Using Forliux OK 1012A offical cross compile environment.
+<br>
+![pic](pic/ls1012_0.png)<br>
+<br>
 
-# in progress
+
 Forlinx OK1012A, official image of ubuntu 18 comes with EC20 driver.
 <br>
 ![pic](pic/ls1012_a.png)<br>
