@@ -21,4 +21,5 @@ Run quectel-CM V1.6.3.2
 <br>
 ![pic](pic/ls1012c.png)<br>
 <br>
-
+force change DNS for ping<br>
+echo "nameserver 8.8.8.8" > /etc/resolv.conf<br>
