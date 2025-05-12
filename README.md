@@ -17,7 +17,7 @@ need to add a file
 ![pic](pic/udhcpc_ls1012.png)<br>
 <br>
 
-Run quectel-CM
+Run quectel-CM V1.6.3.2
 <br>
 ![pic](pic/ls1012c.png)<br>
 <br>
