@@ -8,19 +8,17 @@ Forlinx OK1012A, official image of ubuntu
 # in progress
 The offical kernal comes with EC20 driver.
 <br>
-![pic](pic/demo.jpg)<br>
+![pic](pic/ls1012_a.png)<br>
 <br>
 
 need add a file
 /et/udhcpc/default.script
 <br>
-![pic](pic/demo.jpg)<br>
+![pic](pic/udhcpc_ls1012.png)<br>
 <br>
 
 Run quectel-CM
 <br>
-![pic](pic/demo.jpg)<br>
+![pic](pic/ls1012c.png)<br>
 <br>
-<br>
-![pic](pic/demo.jpg)<br>
-<br>
+
