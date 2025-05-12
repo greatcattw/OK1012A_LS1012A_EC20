@@ -11,7 +11,7 @@ The offical kernal comes with EC20 driver.
 ![pic](pic/ls1012_a.png)<br>
 <br>
 
-need add a file
+need to add a file
 /et/udhcpc/default.script
 <br>
 ![pic](pic/udhcpc_ls1012.png)<br>
