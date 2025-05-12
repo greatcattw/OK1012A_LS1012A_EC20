@@ -1,6 +1,8 @@
 # OK1012A_LS1012A_EC20
 LS1012A / OK1012A EC20  GSM modem
-
+<br>
+![pic](pic/ok1012.jpg)<br>
+<br>
 ## build quectel-CM
 Using Forliux OK 1012A offical cross compile environment.
 <br>
