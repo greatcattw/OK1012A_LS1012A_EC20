@@ -2,11 +2,8 @@
 LS1012A / OK1012A EC20  GSM modem
 
 
-Forlinx OK1012A, official image of ubuntu 
-
-18.
 # in progress
-The offical kernal comes with EC20 driver.
+Forlinx OK1012A, official image of ubuntu 18 comes with EC20 driver.
 <br>
 ![pic](pic/ls1012_a.png)<br>
 <br>
