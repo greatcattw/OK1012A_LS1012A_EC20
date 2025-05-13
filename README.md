@@ -30,7 +30,9 @@ echo "nameserver 8.8.8.8" > /etc/resolv.conf<br>
 <br>
 ![pic](pic/ls1012_e.png)<br>
 <br>
+
 ## note, for apt-get
+ls1012_source.png  
 <br>
 ![pic](pic/ls1012_source.png)<br>
 <br>
